@@ -9,8 +9,13 @@ https://ojs.wiserpub.com/index.php/EST/article/view/4169
 Luc, N. Q., Nguyen, T. T., Quach, D. H., Dao, T. T., & Pham, N. T. (2023). Building Applications and Developing Digital Signature Devices based on the Falcon Post-Quantum Digital Signature Scheme. Engineering, Technology & Applied Science Research, 13(2), 10401-10406.
 https://ojs.wiserpub.com/index.php/EST/article/view/4169
 
+Arya, A., Ranjan, A., & Agrawal, A. K. (2024). Post-quantum image security. Digital Image Security: Techniques and Applications, 43.
+https://books.google.com/books?hl=en&lr=&id=LqUIEQAAQBAJ&oi=fnd&pg=PA43&dq=Post-Quantum+Image+Encryption+and+Signature+Using+FALCON&ots=mozCH0doDB&sig=Qj6TKClsnyIwjzT6Ombxb4reP1E#v=onepage&q&f=false
+
 FALCON
 https://falcon-sign.info/
+
+
 
 ## Overview
 

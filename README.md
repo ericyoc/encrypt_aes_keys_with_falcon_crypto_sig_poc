@@ -2,6 +2,16 @@
 
 This project implements a multi-level approach to image encryption and signing using post-quantum cryptographic techniques, with a focus on the FALCON (Fast-Fourier Lattice-based Compact Signatures over NTRU) algorithm for digital signatures.
 
+## Motivating Articles and Related Work
+Rawal, B. S., & Biswas, A. (2024). A comprehensive survey of post-quantum cryptography and its implications. Engineering Science & Technology, 256-269.
+https://ojs.wiserpub.com/index.php/EST/article/view/4169
+
+Luc, N. Q., Nguyen, T. T., Quach, D. H., Dao, T. T., & Pham, N. T. (2023). Building Applications and Developing Digital Signature Devices based on the Falcon Post-Quantum Digital Signature Scheme. Engineering, Technology & Applied Science Research, 13(2), 10401-10406.
+https://ojs.wiserpub.com/index.php/EST/article/view/4169
+
+FALCON
+https://falcon-sign.info/
+
 ## Overview
 
 This system combines various cryptographic techniques to provide a robust, post-quantum secure method for image encryption and authentication. It utilizes 2D Discrete Wavelet Transform (DWT), Advanced Encryption Standard (AES), Learning With Errors (LWE), and the FALCON signature algorithm.

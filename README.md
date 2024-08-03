@@ -55,6 +55,6 @@ The implementation includes features such as:
 - Automatic retrying of signature generation if the signature norm is too large
 - Conversion between image formats and byte strings for signing
 - Integration with the overall multi-level encryption process
-- 
+  
 ## Disclaimer
 The Python code is for academic and research purposes only.

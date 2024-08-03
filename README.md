@@ -1,4 +1,4 @@
-# Post-Quantum Image Encryption and Signature System
+# Post-Quantum Image Encryption and Signature Using FALCON
 
 This project implements a multi-level approach to image encryption and signing using post-quantum cryptographic techniques, with a focus on the FALCON (Fast-Fourier Lattice-based Compact Signatures over NTRU) algorithm for digital signatures.
 

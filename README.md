@@ -3,7 +3,8 @@
 This project implements a multi-level approach to image encryption and signing using post-quantum cryptographic techniques, with a focus on the FALCON (Fast-Fourier Lattice-based Compact Signatures over NTRU) algorithm for digital signatures.
 
 ## Motivating Articles and Related Work
-B. V. Kothakonda et al., "Multi-level Post Quantum Encryption for Images with Quantum Fourier Transform," 2025 IEEE International Conference on Electro Information Technology (eIT), Valparaiso, IN, USA, 2025, pp. 01-10, doi: 10.1109/eIT64391.2025.11103675.
+B. V. Kothakonda et al., "Multi-level Post Quantum Encryption for Images with Quantum Fourier Transform," 2025 IEEE International Conference on Electro Information Technology (eIT), Valparaiso, IN, USA, 2025, pp. 01-10, doi: 10.1109/eIT64391.2025.11103675. 
+https://ieeexplore.ieee.org/document/11103675
 
 Rawal, B. S., & Biswas, A. (2024). A comprehensive survey of post-quantum cryptography and its implications. Engineering Science & Technology, 256-269.
 https://ojs.wiserpub.com/index.php/EST/article/view/4169
